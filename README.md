@@ -33,3 +33,13 @@ The application also identifies the **Dominant Emotion**, providing a clear summ
 1. Clone the repository:
    ```bash
    git clone <Your-GitHub-Repo-URL>
+
+2. Install the required dependencies:
+   ```bash
+   pip install flask requests
+   
+3. Run the application:
+   ```bash
+   python3 server.py
+
+4. Access the application in your browser at: http://localhost:5000
